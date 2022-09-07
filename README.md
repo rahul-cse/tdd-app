@@ -1,2 +1,2 @@
 # tdd-app
-Demo test driven application
+Demo test driven development application
